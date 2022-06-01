@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/andada</item>
+        <item>@font/asset</item>
+        <item>@font/atomic_age</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/faster_one</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/graduate</item>
+        <item>@font/patua_one</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/rock_salt</item>
+        <item>@font/sonsie_one</item>
+    </array>
+</resources>

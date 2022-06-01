@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69327616799",
+    "firebase_url": "https://college-grievance-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "college-grievance",
+    "storage_bucket": "college-grievance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69327616799:android:ff74ef0e2d45fc4dca8e2a",
+        "android_client_info": {
+          "package_name": "com.pzd.collegegrievance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69327616799-lnjiosq49pp81g8ok620kvudchheqmaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20gv9Acj48ArMLXGsnNVZDjQm0dLc5NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69327616799-lnjiosq49pp81g8ok620kvudchheqmaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

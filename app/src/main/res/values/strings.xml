@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">College Grievance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="list_of_grievances">
+        <item>Student 1</item>
+        <item>Student 2</item>
+        <item>Student 3</item>
+        <item>Student 4</item>
+        <item>Student 5</item>
+        <item>Student 6</item>
+        <item>Student 7</item>
+        <item>Student 8</item>
+        <item>Student 9</item>
+        <item>Student 10</item>
+        <item>Student 11</item>
+        <item>Student 12</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+        <item>This is Random Description</item>
+    </string-array>
+
+
+</resources>
